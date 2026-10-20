@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/DocumentScannerKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ugz8uqXiolhfBtzfPYUMqtdqZMo=
+		mDbKmQj9NQOXTcTBA2Ei4AJDWl8=
 		</data>
 		<key>Modules/DocumentScannerKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/DocumentScannerKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		tuQVdBFxKOtr+10UhGXBzMExWS8=
+		YiCdaGtv/3KJ0aA2v/VOqxDvIf8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -68,7 +68,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			R83RPiTaW1ytAX4vda1hNV3fRP2wx/KAgpPGyp9cxNw=
+			x2Lzoiq9naZH1dlCR+xCG8GoSlqrAyNSucy+UGJ0bIw=
 			</data>
 		</dict>
 		<key>Modules/DocumentScannerKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -89,7 +89,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nyTjTlrUZI+IRmhCtmGGiTQvs6a1QiARd6Tv+pt5m7U=
+			l31ckI8BakzKSI76TkIZBd2ih5GT85hwZfb9KbPG+nc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

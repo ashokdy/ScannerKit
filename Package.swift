@@ -6,7 +6,7 @@ let package = Package(
     name: "ScannerKit",
     platforms: [.iOS(.v16)],
     products: [
-        .library(name: "ScannerKit", targets: ["ScannerKit", "DocumentScannerKit", "IDScanner"])
+        .library(name: "ScannerKit", targets: ["ScannerKit"])
     ],
     targets: [
         .binaryTarget(name: "ScannerKit", path: "Frameworks/ScannerKit.xcframework"),
