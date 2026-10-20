@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/ScannerKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		ueGAPL7FCaokD0UTAk9nzNj6Dfk=
+		vIE0LT8YlPCh1+Lfoi5aRTu134I=
 		</data>
 		<key>Modules/ScannerKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		W0S+CMASSMnGVgpx58nTdgYDQ2g=
+		4HZqKa8L+RKvtu1TOg7RznLru8A=
 		</data>
 		<key>Modules/ScannerKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/ScannerKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		jqLJ93A8Qq4n0ghDypAEibSJG0s=
+		G5zXNy/kkfGDizGaBRoUyDs/1Rc=
 		</data>
 		<key>Modules/ScannerKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		v7WYmpI6vuDGJUVaMeWzyQwSqqo=
+		OLpJfFximLiWvEGa9fKnUQ0MRDg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -61,14 +61,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9i0m9s4o7WzD58AUso8ntMzpK6E7KoweNFxX8FTTlmc=
+			gPuWrpxlMJde7U/2xMq9810n2ZDrp29Mp73/937dsyc=
 			</data>
 		</dict>
 		<key>Modules/ScannerKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9cY/qcZR6zIaV4VevGkJ6KpvSewZuSIxFCPDhgSG0t4=
+			lNck+su6ElFdqU0puvcGEYMS+mV5yQItul6kWRoAsuA=
 			</data>
 		</dict>
 		<key>Modules/ScannerKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -82,14 +82,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wRK05Sa4+BGDfvzExUiXQ9rYXT+Y2IQPqHH0xRifuiE=
+			lqLXW2gH7nfZRB7FSOOW6Ls7KOWFquKVkJsThRaarRk=
 			</data>
 		</dict>
 		<key>Modules/ScannerKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+IFuufrK+02zky7nO5XMYbw7HRHGdPnsed7rxI3I2VY=
+			MY5FLMDwnT72IJXycG9wBuTLLtCYU7PSX978LuS9gcQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
