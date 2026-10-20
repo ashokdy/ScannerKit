@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/ScannerKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		EY6/GGnBTiZNzcnn/i0ov9CoiQU=
+		W0S+CMASSMnGVgpx58nTdgYDQ2g=
 		</data>
 		<key>Modules/ScannerKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/ScannerKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		91CTagG2Na5C6mEjviI8XR9q4H8=
+		v7WYmpI6vuDGJUVaMeWzyQwSqqo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -68,7 +68,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PgAq3DVs3NCDiaRbuwCZ/DLB6Mx+OtRzcP97kuAGhCY=
+			9cY/qcZR6zIaV4VevGkJ6KpvSewZuSIxFCPDhgSG0t4=
 			</data>
 		</dict>
 		<key>Modules/ScannerKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -89,7 +89,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zUBJ/EAShujS0tJAWVnyQZd4QQH8wU+bLP4w8JKOuZE=
+			+IFuufrK+02zky7nO5XMYbw7HRHGdPnsed7rxI3I2VY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
